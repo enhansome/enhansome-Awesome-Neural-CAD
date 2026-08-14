@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "description": "Generation • Reconstruction • Abstraction • Analysis • Others • Dataset",
+      "items": [],
+      "title": "📚 Topics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reconstruction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Abstraction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dataset"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:16:16.832Z",
+    "original_repository": "BunnySoCrazy/Awesome-Neural-CAD",
+    "original_repository_sha": "4a87a22f523489e9691eb8c7f5ba3aa249d48eb1",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Neural-CAD",
+    "enhanced_repository_description": null,
+    "title": "Awesome Neural CAD with stars"
+  }
+}
