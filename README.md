@@ -6,7 +6,7 @@
 
 > 🏠 You can also check our [Project Homepage](https://bunnysocrazy.com/).
 
-🔥🔥🔥 Also check out our awesome list about [3D generation](https://github.com/BunnySoCrazy/Awesome-3D-Generation) ⭐ 77 | 🐛 1 | 🌐 HTML | 📅 2026-03-13.
+🔥🔥🔥 Also check out our awesome list about [3D generation](https://github.com/BunnySoCrazy/Awesome-3D-Generation) ⭐ 78 | 🐛 1 | 🌐 HTML | 📅 2026-03-13.
 
 #### 📚 Topics
 
