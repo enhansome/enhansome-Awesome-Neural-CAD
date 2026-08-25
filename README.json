@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "STEP-LLM",
           "description": "STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models arXiv 2026 Paper Code",
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CADEvolve",
           "description": "CADEvolve: Creating Realistic CAD via Program Evolution arXiv 2026 Paper Code",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "BrepGPT",
           "description": "BrepGPT: Autoregressive B-rep Generation with Voronoi Half-Patch SIGGRAPH Asia 2025 Paper Code",
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "AutoBrep",
           "description": "AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry SIGGRAPH Asia 2025 Paper Code",
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "GeoCAD",
           "description": "GeoCAD: Local Geometry-Controllable CAD Generation NeurIPS 2025 Paper Code",
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CLR-Wire",
           "description": "CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation SIGGRAPH 2025 Paper Code",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "DTGBrepGen",
           "description": "DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry CVPR 2025 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "FlexCAD",
           "description": "FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models ICLR 2025 Paper Code",
           "children": [],
           "repo_info": {
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CAD_Code_Generation",
           "description": "Generating CAD Code with Vision-Language Models for 3D Designs ICLR 2025 Paper Code",
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "Text2CAD",
           "description": "Text2CAD: Text to 3D CAD Generation via Technical Drawings NeurIPS 2024 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -170,7 +170,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "BrepGen",
           "description": "BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry SIGGRAPH 2024 Paper Code",
           "children": [],
           "repo_info": {
@@ -185,7 +185,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "LEGO_Buildings_Generation",
           "description": "Learn to Create Simple LEGO Micro Buildings SIGGRAPH Asia 2024 Paper Code",
           "children": [],
           "repo_info": {
@@ -200,7 +200,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "Brep2Seq",
           "description": "Brep2Seq: A Dataset and Hierarchical Deep Learning Network for Reconstruction and Generation of Computer-Aided Design Models JCDE 2024 Paper Code",
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "part_nerf",
           "description": "PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision CVPR 2023 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -230,7 +230,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "sketchgen",
           "description": "SketchGen: Generating Constrained CAD Sketches ICCV 2023 Paper Code",
           "children": [],
           "repo_info": {
@@ -245,7 +245,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "hnc-cad",
           "description": "Hierarchical Neural Coding for Controllable CAD Model Generation ICML 2023 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -260,7 +260,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SkexGen",
           "description": "SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks ICML 2022 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -275,7 +275,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SketchConcept",
           "description": "Discovering Design Concepts for CAD Sketches NeurIPS 2022 Paper Code",
           "children": [],
           "repo_info": {
@@ -290,7 +290,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "Free2CAD",
           "description": "Free2CAD: Parsing Freehand Drawings into CAD Commands SIGGRAPH 2022 Code Project",
           "children": [],
           "repo_info": {
@@ -305,7 +305,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "DeepCAD",
           "description": "DeepCAD: A Deep Generative Network for Computer-Aided Design Models ICCV 2021 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -320,7 +320,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "roofgan",
           "description": "Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses CVPR 2021 Paper Code",
           "children": [],
           "repo_info": {
@@ -335,7 +335,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "deepsvg",
           "description": "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation NeurIPS 2020 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -350,7 +350,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SDMNET_stamp",
           "description": "SDM-NET: Deep Generative Network for Structured Deformable Mesh TOG 2019 Paper Code",
           "children": [],
           "repo_info": {
@@ -365,7 +365,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "structurenet",
           "description": "StructureNet: Hierarchical Graph Networks for 3D Shape Generation Siggraph Asia 2019 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -380,7 +380,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "AtlasNet",
           "description": "AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation CVPR 2018 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -401,7 +401,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "cad-recode",
           "description": "CAD-Recode: Reverse Engineering CAD Code from Point Clouds ICCV 2025 Paper Code",
           "children": [],
           "repo_info": {
@@ -416,7 +416,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "point2cad",
           "description": "Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds CVPR 2024 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -431,7 +431,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "DiffConvex",
           "description": "Differentiable Convex Polyhedra Optimization from Multi-view Images ECCV 2024 Paper Code",
           "children": [],
           "repo_info": {
@@ -446,7 +446,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "polygnn",
           "description": "PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds ISPRS 2024 Paper Code",
           "children": [],
           "repo_info": {
@@ -461,7 +461,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "NVDNet",
           "description": "Split-and-Fit: Learning B-Reps via Structure-Aware Voronoi Partitioning SIGGRAPH 2024 Paper Code",
           "children": [],
           "repo_info": {
@@ -476,7 +476,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "D2CSG",
           "description": "D2CSG: Unsupervised Learning of Compact CSG Trees with Dual Complements and Dropouts Neurips 2024 Paper Code",
           "children": [],
           "repo_info": {
@@ -491,7 +491,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SECAD-Net",
           "description": "SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations CVPR 2023 Paper Code",
           "children": [],
           "repo_info": {
@@ -506,7 +506,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "PlankAssembly",
           "description": "PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs ICCV 2023 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -521,7 +521,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SED-Net",
           "description": "Surface and Edge Detection for Primitive Fitting of Point Clouds SIGGRAPH 2023 Code",
           "children": [],
           "repo_info": {
@@ -536,7 +536,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "BPNet",
           "description": "BPNet: Bézier Primitive Segmentation on 3D Point Clouds IJCAI 2023 Paper Code",
           "children": [],
           "repo_info": {
@@ -551,7 +551,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "vitruvion",
           "description": "Vitruvion: A Generative Model of Parametric CAD Sketches ICLR 2022 Paper Code",
           "children": [],
           "repo_info": {
@@ -566,7 +566,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "points2poly",
           "description": "Reconstructing compact building models from point clouds using deep implicit fields ISPRS 2022 Paper Code",
           "children": [],
           "repo_info": {
@@ -581,7 +581,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "point2cyl",
           "description": "Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders CVPR 2022 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -596,7 +596,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "ExtrudeNet",
           "description": "ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing ECCV 2022 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -611,7 +611,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "ComplexGen",
           "description": "ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation SIGGRAPH 2022 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -626,7 +626,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CAPRI-Net",
           "description": "CAPRI-Net: Learning Compact CAD Shapes with Adaptive Primitive Assembly CVPR 2022 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -641,7 +641,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "LC2WF",
           "description": "LC2WF:Learning to Construct 3D Building Wireframes from 3D Line Clouds BMVC 2022 Paper Code",
           "children": [],
           "repo_info": {
@@ -656,7 +656,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "HPNet",
           "description": "HPNet: Deep Primitive Segmentation Using Hybrid Representations ICCV 2021 Paper Code",
           "children": [],
           "repo_info": {
@@ -671,7 +671,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CPFN",
           "description": "CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds ICCV 2021 Paper Code",
           "children": [],
           "repo_info": {
@@ -686,7 +686,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CSGStumpNet",
           "description": "CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing ICCV 2021 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -701,7 +701,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "PC2WF",
           "description": "PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds ICLR 2021 Paper Code",
           "children": [],
           "repo_info": {
@@ -716,7 +716,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SGA21_roofOptimization",
           "description": "Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis SIGGRAPH Asia 2021 Paper Code",
           "children": [],
           "repo_info": {
@@ -731,7 +731,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "Sketch2CAD",
           "description": "Sketch2CAD: Sequential CAD Modeling by Sketching in Context SIGGRAPH Asia 2020 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -746,7 +746,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "graphics",
           "description": "CvxNet: Learnable Convex Decomposition CVPR 2020 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -761,7 +761,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "BSP-NET-pytorch",
           "description": "BSP-Net: Generating Compact Meshes via Binary Space Partitioning CVPR 2020 oral Paper Code Project",
           "children": [],
           "repo_info": {
@@ -776,7 +776,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "PIE-NET",
           "description": "PIE-NET: Parametric Inference of Point Cloud Edges Neurips 2020 Paper Code",
           "children": [],
           "repo_info": {
@@ -791,7 +791,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "ucsgnet",
           "description": "UCSG-Net -- Unsupervised Discovering of Constructive Solid Geometry Tree Neurips 2020 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -806,7 +806,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "parsenet-codebase",
           "description": "ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds ECCV 2020 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -821,7 +821,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SPFN",
           "description": "Supervised Fitting of Geometric Primitives to 3D Point Clouds CVPR 2019 oral Paper Code",
           "children": [],
           "repo_info": {
@@ -836,7 +836,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CSGNet",
           "description": "CSGNet: Neural Shape Parser for Constructive Solid Geometry CVPR 2018 Paper Code",
           "children": [],
           "repo_info": {
@@ -857,7 +857,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "PrimitiveAnything",
           "description": "PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer SIGGRAPH 2025 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -872,7 +872,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "superdec",
           "description": "SuperDec: 3D Scene Decomposition with Superquadric Primitives ICCV 2025 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -887,7 +887,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "Light-SQ",
           "description": "Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes SIGGRAPH Asia 2025 Paper Code",
           "children": [],
           "repo_info": {
@@ -902,7 +902,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "coref",
           "description": "Improving Unsupervised Visual Program Inference with Code Rewriting Families ICCV 2023 (oral) Paper Code Project",
           "children": [],
           "repo_info": {
@@ -917,7 +917,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SweepNet",
           "description": "SweepNet: Unsupervised Learning Shape Abstraction via Neural Sweepers ECCV 2024 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -932,7 +932,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "ShapeMOD",
           "description": "ShapeMOD: Macro Operation Discovery for 3D Shape Programs SIGGRAPH 2021 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -947,7 +947,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "hierarchical_primitives",
           "description": "Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image CVPR 2020 Paper Code",
           "children": [],
           "repo_info": {
@@ -962,7 +962,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "ShapeAssembly",
           "description": "ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis SIGGRAPH Asia 2020 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -977,7 +977,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "superquadric_parsing",
           "description": "Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids CVPR 2019 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -992,7 +992,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "Im2Struct",
           "description": "Im2Struct: Recovering 3D Shape Structure from a Single RGB Image CVPR 2018 Paper Code",
           "children": [],
           "repo_info": {
@@ -1007,7 +1007,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "volumetricPrimitives",
           "description": "Learning Shape Abstractions by Assembling Volumetric Primitives CVPR 2017 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1028,7 +1028,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "DeFillet",
           "description": "DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models Siggraph 2025 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1043,7 +1043,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "BrepMFR",
           "description": "BrepMFR: Enhancing machining feature recognition in B-rep models through deep learning and domain adaptation CAGD 2024 Paper Code",
           "children": [],
           "repo_info": {
@@ -1058,7 +1058,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CADTalk",
           "description": "CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs CVPR 2024 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1073,7 +1073,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "GAT-CADNet",
           "description": "GAT-CADNet: Graph Attention Network for Panoptic Symbol Spotting in CAD Drawings CVPR 2022 Paper Code",
           "children": [],
           "repo_info": {
@@ -1088,7 +1088,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "UV-Net",
           "description": "UV-Net: Learning from Boundary Representations CVPR 2021 Paper Code",
           "children": [],
           "repo_info": {
@@ -1103,7 +1103,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "BRepNet",
           "description": "BRepNet: A Topological Message Passing System for Solid Models CVPR 2021 Paper Code",
           "children": [],
           "repo_info": {
@@ -1124,7 +1124,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "cad-estate",
           "description": "CAD-Estate: Large-scale CAD Model Annotation in RGB Videos ICCV 2023 Paper Code",
           "children": [],
           "repo_info": {
@@ -1139,7 +1139,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "ROCA",
           "description": "ROCA: Robust CAD Model Retrieval and Alignment from a Single Image CVPR 2022 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1154,7 +1154,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "JoinABLe",
           "description": "JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints CVPR 2022 Paper Code",
           "children": [],
           "repo_info": {
@@ -1169,7 +1169,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "SceneCAD",
           "description": "SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans ECCV 2020 Paper Code",
           "children": [],
           "repo_info": {
@@ -1184,7 +1184,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "CAD-Deform",
           "description": "CAD-Deform: Deformable Fitting of CAD Models to 3D Scans ECCV 2020 Paper Code",
           "children": [],
           "repo_info": {
@@ -1199,7 +1199,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "Scan2CAD",
           "description": "Scan2CAD: Learning CAD Model Alignment in RGB-D Scans CVPR 2019 (Oral) Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1220,7 +1220,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "VideoCAD",
           "description": "VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video NeurIPS 2025 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1235,7 +1235,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "JoinABLe",
           "description": "Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences (Assembly Dataset) CVPR 2022 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1250,7 +1250,7 @@
         },
         {
           "node_type": "item",
-          "title": "Project",
+          "title": "Fusion360GalleryDataset",
           "description": "Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences (Reconstruction Dataset) SIGGRAPH 2021 Paper Project",
           "children": [],
           "repo_info": {
@@ -1265,7 +1265,7 @@
         },
         {
           "node_type": "item",
-          "title": "Project",
+          "title": "Fusion360GalleryDataset",
           "description": "Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction from Human Design Sequences (Segmentation Dataset) CVPR 2021 Paper Project",
           "children": [],
           "repo_info": {
@@ -1280,7 +1280,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "DeepCAD",
           "description": "DeepCAD: A Deep Generative Network for Computer-Aided Design Models ICCV 2021 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1295,7 +1295,7 @@
         },
         {
           "node_type": "item",
-          "title": "Code",
+          "title": "Slice-100K",
           "description": "Slice-100K: A Multimodal Dataset for Extrusion-based 3D Printing NeurIPS 2024 Paper Code Project",
           "children": [],
           "repo_info": {
@@ -1313,7 +1313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:08:55.389Z",
+    "last_updated": "2026-08-25T06:25:42.511Z",
     "original_repository": "BunnySoCrazy/Awesome-Neural-CAD",
     "original_repository_id": 937902986,
     "original_repository_sha": "4a87a22f523489e9691eb8c7f5ba3aa249d48eb1",
