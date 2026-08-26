@@ -60,7 +60,7 @@
             "last_commit": "2026-02-23T21:10:24Z",
             "owner": "AutodeskAILab",
             "repo": "AutoBrep",
-            "stars": 96
+            "stars": 97
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-09-13T13:49:58Z",
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 421
+            "stars": 422
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2025-11-16T14:34:15Z",
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2020-12-03T19:16:52Z",
             "owner": "lingxiaoli94",
             "repo": "SPFN",
-            "stars": 184
+            "stars": 183
           }
         },
         {
@@ -1053,7 +1053,7 @@
             "last_commit": "2024-04-19T05:13:22Z",
             "owner": "zhangshuming0668",
             "repo": "BrepMFR",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -1313,7 +1313,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:42.511Z",
+    "last_updated": "2026-08-26T03:15:09.936Z",
     "original_repository": "BunnySoCrazy/Awesome-Neural-CAD",
     "original_repository_id": 937902986,
     "original_repository_sha": "4a87a22f523489e9691eb8c7f5ba3aa249d48eb1",
