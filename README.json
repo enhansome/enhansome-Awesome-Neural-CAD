@@ -105,7 +105,7 @@
             "last_commit": "2025-10-02T08:37:22Z",
             "owner": "jinli99",
             "repo": "DTGBrepGen",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2024-04-12T13:45:36Z",
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 812
+            "stars": 813
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2025-11-16T14:34:15Z",
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2022-09-28T11:30:24Z",
             "owner": "PrincetonLIPS",
             "repo": "vitruvion",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2022-05-11T12:54:11Z",
             "owner": "llorz",
             "repo": "SGA21_roofOptimization",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2026-04-17T07:54:24Z",
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -987,7 +987,7 @@
             "last_commit": "2024-07-25T10:14:04Z",
             "owner": "paschalidoud",
             "repo": "superquadric_parsing",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2019-01-04T16:19:29Z",
             "owner": "shubhtuls",
             "repo": "volumetricPrimitives",
-            "stars": 163
+            "stars": 164
           }
         }
       ],
@@ -1098,7 +1098,7 @@
             "last_commit": "2023-01-31T23:26:37Z",
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 199
+            "stars": 202
           }
         },
         {
@@ -1113,7 +1113,7 @@
             "last_commit": "2023-04-04T12:27:27Z",
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 260
+            "stars": 261
           }
         }
       ],
@@ -1164,7 +1164,7 @@
             "last_commit": "2022-04-22T22:20:06Z",
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -1245,7 +1245,7 @@
             "last_commit": "2022-04-22T22:20:06Z",
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -1260,7 +1260,7 @@
             "last_commit": "2022-04-23T18:47:41Z",
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 713
+            "stars": 716
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "last_commit": "2022-04-23T18:47:41Z",
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 713
+            "stars": 716
           }
         },
         {
@@ -1290,7 +1290,7 @@
             "last_commit": "2024-04-12T13:45:36Z",
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 812
+            "stars": 813
           }
         },
         {
@@ -1313,9 +1313,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:15:09.936Z",
-    "original_repository": "BunnySoCrazy/Awesome-Neural-CAD",
-    "original_repository_id": 937902986,
+    "last_updated": "2026-08-27T11:25:36.464Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 937902986,
+      "language": "HTML",
+      "last_commit": "2026-03-13T07:59:05Z",
+      "owner": "BunnySoCrazy",
+      "repo": "Awesome-Neural-CAD",
+      "stars": 203
+    },
     "original_repository_sha": "4a87a22f523489e9691eb8c7f5ba3aa249d48eb1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Neural-CAD",
     "enhanced_repository_description": null,
