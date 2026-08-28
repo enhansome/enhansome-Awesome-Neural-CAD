@@ -16,7 +16,8 @@
             "owner": "JasonShiii",
             "repo": "STEP-LLM",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "zhemdi",
             "repo": "CADEvolve",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "BunnySoCrazy",
             "repo": "BrepGPT",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "AutodeskAILab",
             "repo": "AutoBrep",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Zhanwei-Z",
             "repo": "GeoCAD",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "qixuema",
             "repo": "CLR-Wire",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "jinli99",
             "repo": "DTGBrepGen",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2025-07-04T15:26:04Z",
             "owner": "BunnySoCrazy",
             "repo": "RECAD",
-            "stars": 7
-          }
+            "stars": 8
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "microsoft",
             "repo": "FlexCAD",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2025-02-28T20:58:00Z",
             "owner": "Kamel773",
             "repo": "CAD_Code_Generation",
-            "stars": 63
-          }
+            "stars": 64
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -165,8 +175,9 @@
             "last_commit": "2025-05-15T15:53:24Z",
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 460
-          }
+            "stars": 461
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "samxuxiang",
             "repo": "BrepGen",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "Occulte",
             "repo": "LEGO_Buildings_Generation",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "zhangshuming0668",
             "repo": "Brep2Seq",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "ktertikas",
             "repo": "part_nerf",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "wamiq-reyaz",
             "repo": "sketchgen",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "samxuxiang",
             "repo": "hnc-cad",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "samxuxiang",
             "repo": "SkexGen",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "yyuezhi",
             "repo": "SketchConcept",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "Enigma-li",
             "repo": "Free2CAD",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "rundiwu",
             "repo": "DeepCAD",
             "stars": 813
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "yi-ming-qian",
             "repo": "roofgan",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "alexandre01",
             "repo": "deepsvg",
             "stars": 1164
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "gaolinorange",
             "repo": "SDMNET_stamp",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "daerduoCarey",
             "repo": "structurenet",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "ThibaultGROUEIX",
             "repo": "AtlasNet",
             "stars": 724
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         }
       ],
       "title": "Generation"
@@ -412,7 +438,8 @@
             "owner": "filaPro",
             "repo": "cad-recode",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -426,8 +453,9 @@
             "last_commit": "2024-09-24T22:48:30Z",
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 455
-          }
+            "stars": 456
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "kimren227",
             "repo": "DiffConvex",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "chenzhaiyu",
             "repo": "polygnn",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "yilinliu77",
             "repo": "NVDNet",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "FENGGENYU",
             "repo": "D2CSG",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "BunnySoCrazy",
             "repo": "SECAD-Net",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "manycore-research",
             "repo": "PlankAssembly",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "yuanqili78",
             "repo": "SED-Net",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "bizerfr",
             "repo": "BPNet",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "PrincetonLIPS",
             "repo": "vitruvion",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "chenzhaiyu",
             "repo": "points2poly",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "mikacuy",
             "repo": "point2cyl",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "kimren227",
             "repo": "ExtrudeNet",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "guohaoxiang",
             "repo": "ComplexGen",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "FENGGENYU",
             "repo": "CAPRI-Net",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "Luo1Cheng",
             "repo": "LC2WF",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "SimingYan",
             "repo": "HPNet",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "erictuanle",
             "repo": "CPFN",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "kimren227",
             "repo": "CSGStumpNet",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "YujiaLiu76",
             "repo": "PC2WF",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "llorz",
             "repo": "SGA21_roofOptimization",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "Enigma-li",
             "repo": "Sketch2CAD",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2781
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "czq142857",
             "repo": "BSP-NET-pytorch",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "wangxiaogang866",
             "repo": "PIE-NET",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -802,7 +854,8 @@
             "owner": "kacperkan",
             "repo": "ucsgnet",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -817,7 +870,8 @@
             "owner": "Hippogriff",
             "repo": "parsenet-codebase",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -832,7 +886,8 @@
             "owner": "lingxiaoli94",
             "repo": "SPFN",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -847,7 +902,8 @@
             "owner": "Hippogriff",
             "repo": "CSGNet",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         }
       ],
       "title": "Reconstruction"
@@ -868,7 +924,8 @@
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -883,7 +940,8 @@
             "owner": "elisabettafedele",
             "repo": "superdec",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -898,7 +956,8 @@
             "owner": "johannwyh",
             "repo": "Light-SQ",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -913,7 +972,8 @@
             "owner": "BardOfCodes",
             "repo": "coref",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -928,7 +988,8 @@
             "owner": "mingrui-zhao",
             "repo": "SweepNet",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1004,8 @@
             "owner": "rkjones4",
             "repo": "ShapeMOD",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1020,8 @@
             "owner": "paschalidoud",
             "repo": "hierarchical_primitives",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1036,8 @@
             "owner": "rkjones4",
             "repo": "ShapeAssembly",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1052,8 @@
             "owner": "paschalidoud",
             "repo": "superquadric_parsing",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1068,8 @@
             "owner": "chengjieniu",
             "repo": "Im2Struct",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1084,8 @@
             "owner": "shubhtuls",
             "repo": "volumetricPrimitives",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         }
       ],
       "title": "Abstraction"
@@ -1039,7 +1106,8 @@
             "owner": "xiaowuga",
             "repo": "DeFillet",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1053,8 +1121,9 @@
             "last_commit": "2024-04-19T05:13:22Z",
             "owner": "zhangshuming0668",
             "repo": "BrepMFR",
-            "stars": 86
-          }
+            "stars": 87
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1138,8 @@
             "owner": "YYYYYHC",
             "repo": "CADTalk",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1154,8 @@
             "owner": "Liberation-happy",
             "repo": "GAT-CADNet",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1170,8 @@
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1186,8 @@
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         }
       ],
       "title": "Analysis"
@@ -1135,7 +1208,8 @@
             "owner": "google-research",
             "repo": "cad-estate",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1150,7 +1224,8 @@
             "owner": "cangumeli",
             "repo": "ROCA",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1240,8 @@
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1180,7 +1256,8 @@
             "owner": "skanti",
             "repo": "SceneCAD",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1272,8 @@
             "owner": "alexeybokhovkin",
             "repo": "CAD-Deform",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1288,8 @@
             "owner": "skanti",
             "repo": "Scan2CAD",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         }
       ],
       "title": "Others"
@@ -1231,7 +1310,8 @@
             "owner": "ghadinehme",
             "repo": "VideoCAD",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1326,8 @@
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1342,8 @@
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
             "stars": 716
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1358,8 @@
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
             "stars": 716
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1291,7 +1374,8 @@
             "owner": "rundiwu",
             "repo": "DeepCAD",
             "stars": 813
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         },
         {
           "node_type": "item",
@@ -1306,14 +1390,15 @@
             "owner": "idealab-isu",
             "repo": "Slice-100K",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T14:17:31.435Z"
         }
       ],
       "title": "Dataset"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:44:04.968Z",
+    "last_updated": "2026-08-28T14:17:31.435Z",
     "original_repository_info": {
       "archived": false,
       "id": 937902986,
