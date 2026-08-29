@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of STEP-LLM: Generating CAD STEP Models from Natural Language with LLMs.",
+            "homepage": null,
             "id": 1116507090,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T07:21:07Z",
+            "open_issues": 1,
             "owner": "JasonShiii",
             "repo": "STEP-LLM",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CADEvolve: Creating Realistic CAD via Program Evolution",
+            "homepage": null,
             "id": 1153507251,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-19T13:12:03Z",
+            "open_issues": 1,
             "owner": "zhemdi",
             "repo": "CADEvolve",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -42,12 +52,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository provides the official code of BrepGPT",
+            "homepage": "https://bunnysocrazy.github.io/BrepGPT/",
             "id": 1180422548,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T04:58:42Z",
+            "open_issues": 1,
             "owner": "BunnySoCrazy",
             "repo": "BrepGPT",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "3d-generation",
+              "brep",
+              "cad"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official codebase for the Siggraph Asia 2025 paper AutoBrep: Autoregressive B-Rep Generation with Unified Topology and Geometry",
+            "homepage": null,
             "id": 1054453874,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-23T21:10:24Z",
+            "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "AutoBrep",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -74,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code of GeoCAD",
+            "homepage": null,
             "id": 1065849976,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-21T08:52:49Z",
+            "open_issues": 3,
             "owner": "Zhanwei-Z",
             "repo": "GeoCAD",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -90,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation (ACM SIGGRAPH 2025)",
+            "homepage": null,
             "id": 972785438,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-01T17:11:13Z",
+            "open_issues": 1,
             "owner": "qixuema",
             "repo": "CLR-Wire",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -106,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025] DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry",
+            "homepage": null,
             "id": 833990795,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-02T08:37:22Z",
+            "open_issues": 12,
             "owner": "jinli99",
             "repo": "DTGBrepGen",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -122,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Revisiting CAD Model Generation by Learning Raster Sketch",
+            "homepage": null,
             "id": 1013801051,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-04T15:26:04Z",
+            "open_issues": 0,
             "owner": "BunnySoCrazy",
             "repo": "RECAD",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -138,12 +182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 916022661,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-28T07:49:48Z",
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "FlexCAD",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -154,12 +203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2025] Generating CAD Code with Vision-Language Models for 3D Designs",
+            "homepage": null,
             "id": 939675465,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-28T20:58:00Z",
+            "open_issues": 1,
             "owner": "Kamel773",
             "repo": "CAD_Code_Generation",
-            "stars": 64
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -170,12 +224,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'24 Spotlight] Text2CAD: Generating Sequential CAD Designs from Beginner-to-Expert Level Text Prompts",
+            "homepage": "https://sadilkhan.github.io/text2cad-project/",
             "id": 858548202,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-15T15:53:24Z",
+            "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 461
+            "stars": 461,
+            "topics": [
+              "3d",
+              "3d-reconstruction",
+              "bert",
+              "brep",
+              "cad",
+              "dataset",
+              "deepcad",
+              "generation",
+              "neurips",
+              "sequence",
+              "text-to-3d",
+              "text2cad",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -186,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH 2024] Official PyTorch Implementation of \"BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry\".",
+            "homepage": null,
             "id": 770484903,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-13T13:49:58Z",
+            "open_issues": 21,
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 422
+            "stars": 422,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -202,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Office code repository for the paper \"Learn to Create Simple LEGO Micro Buildings\"",
+            "homepage": null,
             "id": 854971655,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-11T04:41:15Z",
+            "open_issues": 0,
             "owner": "Occulte",
             "repo": "LEGO_Buildings_Generation",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -218,12 +301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Brep2Seq: a dataset and hierarchical deep learning network for reconstruction and generation of computer-aided design models.",
+            "homepage": "https://doi.org/10.1093/jcde/qwae005",
             "id": 709888032,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-17T06:39:02Z",
+            "open_issues": 5,
             "owner": "zhangshuming0668",
             "repo": "Brep2Seq",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -234,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Generating Part-Aware Editable 3D Shapes without 3D Supervision\", CVPR 2023",
+            "homepage": "https://ktertikas.github.io/part_nerf",
             "id": 610910404,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-22T11:59:05Z",
+            "open_issues": 1,
             "owner": "ktertikas",
             "repo": "part_nerf",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -250,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 418252779,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-17T20:52:41Z",
+            "open_issues": 1,
             "owner": "wamiq-reyaz",
             "repo": "sketchgen",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -266,12 +364,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2023] Official PyTorch Implementation of \"Hierarchical Neural Coding for Controllable CAD Model Generation\".",
+            "homepage": null,
             "id": 642241642,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-06T16:56:17Z",
+            "open_issues": 4,
             "owner": "samxuxiang",
             "repo": "hnc-cad",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "3d",
+              "autocomplete",
+              "computer-aided-design",
+              "controllable-generation",
+              "generative-model",
+              "hierarchy",
+              "masking",
+              "pytorch",
+              "shape-completion",
+              "transformer",
+              "vq-vae"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -282,12 +397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2022] Official PyTorch Implementation of \"SkexGen: Autoregressive Generation of CAD Construction Sequences with Disentangled Codebooks\".",
+            "homepage": "https://samxuxiang.github.io/skexgen",
             "id": 498045680,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-24T18:25:08Z",
+            "open_issues": 4,
             "owner": "samxuxiang",
             "repo": "SkexGen",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -298,12 +418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code for Discovering Design Concepts for CAD Sketches",
+            "homepage": null,
             "id": 542044879,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-12T03:39:26Z",
+            "open_issues": 3,
             "owner": "yyuezhi",
             "repo": "SketchConcept",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -314,12 +439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 477811204,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-15T11:34:49Z",
+            "open_issues": 6,
             "owner": "Enigma-li",
             "repo": "Free2CAD",
-            "stars": 164
+            "stars": 164,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -330,12 +460,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for our ICCV 2021 paper \"DeepCAD: A Deep Generative Network for Computer-Aided Design Models\"",
+            "homepage": "http://www.cs.columbia.edu/cg/deepcad/",
             "id": 391366630,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-12T13:45:36Z",
+            "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 813
+            "stars": 813,
+            "topics": [
+              "3d-shapes",
+              "computer-aided-design",
+              "computer-graphics",
+              "deep-learning",
+              "iccv2021",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -346,12 +488,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses",
+            "homepage": null,
             "id": 360087637,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-17T21:44:07Z",
+            "open_issues": 2,
             "owner": "yi-ming-qian",
             "repo": "roofgan",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "3d-generation",
+              "computer-graphics",
+              "computer-vision",
+              "cvpr2021",
+              "gan"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -362,12 +515,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2020] Official code for the paper \"DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation\". Includes a PyTorch library for deep learning with SVG data.",
+            "homepage": "https://www.reshot.ai",
             "id": 281817032,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-26T21:18:03Z",
+            "open_issues": 34,
             "owner": "alexandre01",
             "repo": "deepsvg",
-            "stars": 1164
+            "stars": 1164,
+            "topics": [
+              "autoencoder",
+              "deep-learning",
+              "deep-svg",
+              "library",
+              "machine-learning",
+              "python",
+              "pytorch",
+              "sketch-rnn",
+              "sketches",
+              "svg",
+              "svg-animations",
+              "svg-vae",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -378,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 251203913,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-21T08:45:11Z",
+            "open_issues": 4,
             "owner": "gaolinorange",
             "repo": "SDMNET_stamp",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -394,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StructureNet: Hierarchical Graph Networks for 3D Shape Generation",
+            "homepage": "https://cs.stanford.edu/~kaichun/structurenet/",
             "id": 194929103,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-22T16:19:49Z",
+            "open_issues": 7,
             "owner": "daerduoCarey",
             "repo": "structurenet",
-            "stars": 264
+            "stars": 264,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -410,12 +592,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the source codes for the paper \"AtlasNet: A Papier-Mâché Approach to Learning 3D Surface Generation \". The network is able to synthesize a mesh (point cloud + connectivity) from a low-resolution point cloud, or from an image.",
+            "homepage": "http://imagine.enpc.fr/~groueixt/atlasnet/",
             "id": 116996379,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-26T16:26:54Z",
+            "open_issues": 6,
             "owner": "ThibaultGROUEIX",
             "repo": "AtlasNet",
-            "stars": 724
+            "stars": 724,
+            "topics": [
+              "3d",
+              "3d-deep-learning",
+              "computer-vision",
+              "cvpr2018",
+              "geometry-processing",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         }
@@ -432,12 +626,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV2025] CAD-Recode: Reverse Engineering CAD Code from Point Clouds",
+            "homepage": null,
             "id": 905370259,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-16T14:34:15Z",
+            "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 255
+            "stars": 255,
+            "topics": [
+              "cad",
+              "cadquery",
+              "llm",
+              "pytorch",
+              "qwen2"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -448,12 +653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds\"",
+            "homepage": null,
             "id": 646848690,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-24T22:48:30Z",
+            "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 456
+            "stars": 456,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -464,12 +674,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 831362469,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-07-20T10:43:24Z",
+            "open_issues": 1,
             "owner": "kimren227",
             "repo": "DiffConvex",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -480,12 +695,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PolyGNN: Polyhedron-based graph neural network for 3D building reconstruction from point clouds [ISPRS 2024]",
+            "homepage": "https://github.com/chenzhaiyu/polygnn",
             "id": 667584119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-13T09:17:59Z",
+            "open_issues": 7,
             "owner": "chenzhaiyu",
             "repo": "polygnn",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "3d",
+              "building",
+              "gnn",
+              "point-cloud",
+              "reconstruction"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -496,12 +722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 781818979,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-10T11:20:47Z",
+            "open_issues": 6,
             "owner": "yilinliu77",
             "repo": "NVDNet",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -512,12 +743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 628381140,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-25T00:22:51Z",
+            "open_issues": 1,
             "owner": "FENGGENYU",
             "repo": "D2CSG",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -528,12 +764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository provides the official code of SECAD-Net.",
+            "homepage": null,
             "id": 608444458,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-20T01:34:27Z",
+            "open_issues": 4,
             "owner": "BunnySoCrazy",
             "repo": "SECAD-Net",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -544,12 +785,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] PlankAssembly: Robust 3D Reconstruction from Three Orthographic Views with Learnt Shape Programs",
+            "homepage": "https://manycore-research.github.io/PlankAssembly/",
             "id": 672807690,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-05-14T07:36:14Z",
+            "open_issues": 1,
             "owner": "manycore-research",
             "repo": "PlankAssembly",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "3d-modeling",
+              "3d-reconstruction",
+              "computer-vision",
+              "deep-learning",
+              "engineering-drawing",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -560,12 +814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Surface and Edge Detection for Primitive Fitting of Point Clouds，SIGGRAPH 2023",
+            "homepage": null,
             "id": 705534207,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-08T07:47:21Z",
+            "open_issues": 13,
             "owner": "yuanqili78",
             "repo": "SED-Net",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -576,12 +835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 634256140,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-26T12:30:02Z",
+            "open_issues": 0,
             "owner": "bizerfr",
             "repo": "BPNet",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -592,12 +856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for Vitruvion: A Generative Model of Parametric CAD Sketches (ICLR 2022)",
+            "homepage": null,
             "id": 524240088,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-09-28T11:30:24Z",
+            "open_issues": 7,
             "owner": "PrincetonLIPS",
             "repo": "vitruvion",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -608,12 +877,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reconstructing compact building models from point clouds using deep implicit fields [ISPRS 2022]",
+            "homepage": "https://github.com/chenzhaiyu/points2poly",
             "id": 337204366,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-29T15:33:57Z",
+            "open_issues": 5,
             "owner": "chenzhaiyu",
             "repo": "points2poly",
-            "stars": 237
+            "stars": 237,
+            "topics": [
+              "3d",
+              "building",
+              "implicit-field",
+              "point-cloud",
+              "reconstruction"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -624,12 +904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders, CVPR 2022",
+            "homepage": null,
             "id": 473464380,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-09T23:15:49Z",
+            "open_issues": 4,
             "owner": "mikacuy",
             "repo": "point2cyl",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -640,12 +925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 515662092,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-10T08:19:25Z",
+            "open_issues": 3,
             "owner": "kimren227",
             "repo": "ExtrudeNet",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -656,12 +946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for SIGGRAPH 2022 paper: ComplexGen: CAD Reconstruction by B-Rep Chain Complex Generation",
+            "homepage": null,
             "id": 475268646,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-01-17T11:54:05Z",
+            "open_issues": 6,
             "owner": "guohaoxiang",
             "repo": "ComplexGen",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -672,12 +967,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CAPRI-Net ",
+            "homepage": null,
             "id": 396426240,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-06T02:46:01Z",
+            "open_issues": 9,
             "owner": "FENGGENYU",
             "repo": "CAPRI-Net",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -688,12 +988,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 524878845,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-11T08:25:18Z",
+            "open_issues": 5,
             "owner": "Luo1Cheng",
             "repo": "LC2WF",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -704,12 +1009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] \"HPNet: Deep Primitive Segmentation Using Hybrid Representations\"",
+            "homepage": null,
             "id": 371012926,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-13T01:14:46Z",
+            "open_issues": 3,
             "owner": "SimingYan",
             "repo": "HPNet",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -720,12 +1030,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cascaded Primitive Fitting Networks for High-Resolution Point Clouds",
+            "homepage": null,
             "id": 394575038,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-17T19:02:01Z",
+            "open_issues": 6,
             "owner": "erictuanle",
             "repo": "CPFN",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -736,12 +1051,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 397215463,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-08T03:33:35Z",
+            "open_issues": 3,
             "owner": "kimren227",
             "repo": "CSGStumpNet",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -752,12 +1072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 348152993,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-02T22:55:02Z",
+            "open_issues": 6,
             "owner": "YujiaLiu76",
             "repo": "PC2WF",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -768,12 +1093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for the paper \"Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis\"",
+            "homepage": null,
             "id": 386592418,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2022-05-11T12:54:11Z",
+            "open_issues": 2,
             "owner": "llorz",
             "repo": "SGA21_roofOptimization",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -784,12 +1114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 287319454,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-11T16:35:44Z",
+            "open_issues": 0,
             "owner": "Enigma-li",
             "repo": "Sketch2CAD",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -800,12 +1135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow",
+            "homepage": null,
             "id": 164626274,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T12:14:54Z",
+            "open_issues": 146,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2781
+            "stars": 2781,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -816,12 +1156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch 1.2 implementation of BSP-NET.",
+            "homepage": null,
             "id": 243322100,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-28T16:48:28Z",
+            "open_issues": 1,
             "owner": "czq142857",
             "repo": "BSP-NET-pytorch",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -832,12 +1177,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 305911139,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-08T03:17:01Z",
+            "open_issues": 6,
             "owner": "wangxiaogang866",
             "repo": "PIE-NET",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -848,12 +1198,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of the \"UCSG-Net - Unsupervised Discovering of Constructive Solid Geometry Tree\" paper",
+            "homepage": "https://kacperkan.github.io/ucsgnet/",
             "id": 270302702,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-17T20:24:43Z",
+            "open_issues": 2,
             "owner": "kacperkan",
             "repo": "ucsgnet",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "3d-graphics",
+              "computer-vision",
+              "deep-learning",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -864,12 +1224,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code base of ParSeNet: ECCV 2020.",
+            "homepage": null,
             "id": 288882394,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-25T19:28:58Z",
+            "open_issues": 7,
             "owner": "Hippogriff",
             "repo": "parsenet-codebase",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "3d-deep-learning",
+              "3d-reconstruction",
+              "eccv-2020",
+              "shape-parsing"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -880,12 +1250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for \"Supervised Fitting of Geometric Primitives to 3D Point Clouds\" [CVPR 2019].",
+            "homepage": "https://arxiv.org/abs/1811.08988",
             "id": 158790992,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-12-03T19:16:52Z",
+            "open_issues": 13,
             "owner": "lingxiaoli94",
             "repo": "SPFN",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -896,12 +1271,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSGNet: Neural Shape parser for Constructive Solid Geometry",
+            "homepage": null,
             "id": 122272524,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-04-22T20:47:45Z",
+            "open_issues": 1,
             "owner": "Hippogriff",
             "repo": "CSGNet",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "3d-graphics",
+              "computervision",
+              "csg",
+              "generative-model",
+              "machine-learning",
+              "neural-shape-parser"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         }
@@ -918,12 +1305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH 2025] PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer",
+            "homepage": "https://primitiveanything.github.io/",
             "id": 978654274,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-17T07:54:24Z",
+            "open_issues": 7,
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
-            "stars": 393
+            "stars": 393,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -934,12 +1326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] SuperDec: 3D Scene Decomposition with  Superquadric Primitives.",
+            "homepage": "https://super-dec.github.io",
             "id": 1012051168,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-31T10:53:28Z",
+            "open_issues": 2,
             "owner": "elisabettafedele",
             "repo": "superdec",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -950,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for SIGGRAPH Asia 2025 Conference paper Light-SQ.",
+            "homepage": "http://johann.wang/Light-SQ/",
             "id": 1050954065,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-08T08:59:04Z",
+            "open_issues": 1,
             "owner": "johannwyh",
             "repo": "Light-SQ",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -966,12 +1368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codebase for Improving Unsupervised Visual Program Inference with Code Rewriting Families (ICCV 2023)",
+            "homepage": null,
             "id": 783391909,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-01T02:51:02Z",
+            "open_issues": 0,
             "owner": "BardOfCodes",
             "repo": "coref",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -982,12 +1389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 824699580,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-22T02:49:05Z",
+            "open_issues": 0,
             "owner": "mingrui-zhao",
             "repo": "SweepNet",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -998,12 +1410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public code release for SIGGRAPH 2021 paper: ShapeMOD: Macro Operation Discovery for 3D Shape Programs",
+            "homepage": null,
             "id": 394812698,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-08T20:37:28Z",
+            "open_issues": 0,
             "owner": "rkjones4",
             "repo": "ShapeMOD",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1014,12 +1431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Learning Unsupervised Hierarchical Part Decomposition of 3D Objects from a Single RGB Image\", CVPR 2020",
+            "homepage": "https://superquadrics.com/hierarchical_primitives",
             "id": 243478769,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-24T02:25:49Z",
+            "open_issues": 3,
             "owner": "paschalidoud",
             "repo": "hierarchical_primitives",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1030,12 +1452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public code release for our Siggraph Asia 2020 paper: ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis",
+            "homepage": "https://rkjones4.github.io/shapeAssembly.html",
             "id": 287117152,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-05T16:32:53Z",
+            "open_issues": 0,
             "owner": "rkjones4",
             "repo": "ShapeAssembly",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1046,12 +1473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Superquadrics Revisited: Learning 3D Shape Parsing beyond Cuboids\", CVPR 2019",
+            "homepage": "https://superquadrics.com",
             "id": 179630822,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-25T10:14:04Z",
+            "open_issues": 10,
             "owner": "paschalidoud",
             "repo": "superquadric_parsing",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1062,12 +1494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 124322878,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2020-01-21T12:48:04Z",
+            "open_issues": 1,
             "owner": "chengjieniu",
             "repo": "Im2Struct",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1078,12 +1515,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for \"Learning Shape Abstractions by Assembling Volumetric Primitives \" (CVPR 2017)",
+            "homepage": null,
             "id": 85500417,
             "language": "Lua",
+            "license": null,
             "last_commit": "2019-01-04T16:19:29Z",
+            "open_issues": 5,
             "owner": "shubhtuls",
             "repo": "volumetricPrimitives",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "3d-representation",
+              "abstraction",
+              "deep-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         }
@@ -1100,12 +1547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code of paper \"DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models\" , ACM Transactions on Graphics (SIGGRAPH 2025)",
+            "homepage": "https://xiaowuga.github.io/pub/DeFillet.html",
             "id": 737749439,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2025-12-14T02:40:04Z",
+            "open_issues": 0,
             "owner": "xiaowuga",
             "repo": "DeFillet",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1116,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for BrepMFR: Enhancing machining feature recognition in B-rep models through deep learning and domain adaptation.",
+            "homepage": "https://doi.org/10.1016/j.cagd.2024.102318",
             "id": 788765307,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-19T05:13:22Z",
+            "open_issues": 8,
             "owner": "zhangshuming0668",
             "repo": "BrepMFR",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1132,12 +1589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the original code for our CVPR2024 paper: CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs.",
+            "homepage": null,
             "id": 814219147,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-11-09T19:42:28Z",
+            "open_issues": 0,
             "owner": "YYYYYHC",
             "repo": "CADTalk",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1148,12 +1610,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 909664762,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-29T13:43:22Z",
+            "open_issues": 3,
             "owner": "Liberation-happy",
             "repo": "GAT-CADNet",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1164,12 +1631,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for UV-Net: Learning from Boundary Representations, CVPR 2021.",
+            "homepage": null,
             "id": 378266493,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-31T23:26:37Z",
+            "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "b-rep",
+              "cad",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1180,12 +1656,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BRepNet: A topological message passing system for solid models",
+            "homepage": null,
             "id": 377268718,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-04T12:27:27Z",
+            "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "cad",
+              "data-processing",
+              "machine-learning",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         }
@@ -1202,12 +1688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 650551284,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-26T11:05:22Z",
+            "open_issues": 3,
             "owner": "google-research",
             "repo": "cad-estate",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1218,12 +1709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for ROCA: Robust CAD Model Retrieval and Alignment from a Single Image (CVPR 2022)",
+            "homepage": null,
             "id": 473000400,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-05T15:41:18Z",
+            "open_issues": 3,
             "owner": "cangumeli",
             "repo": "ROCA",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1234,12 +1730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints",
+            "homepage": null,
             "id": 480961251,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-22T22:20:06Z",
+            "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1250,12 +1751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2020] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans",
+            "homepage": null,
             "id": 283305904,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-22T09:31:17Z",
+            "open_issues": 8,
             "owner": "skanti",
             "repo": "SceneCAD",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1266,12 +1772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code used in the research project CAD-Deform: Deformable Fitting of CAD Models to 3D Scans",
+            "homepage": null,
             "id": 246820830,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-04-28T15:15:16Z",
+            "open_issues": 0,
             "owner": "alexeybokhovkin",
             "repo": "CAD-Deform",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1282,12 +1793,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'19] Dataset and code used in the research project Scan2CAD: Learning CAD Model Alignment in RGB-D Scans",
+            "homepage": "https://www.scan2cad.org",
             "id": 160371701,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-25T00:25:00Z",
+            "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 476
+            "stars": 476,
+            "topics": [
+              "3dscan",
+              "alignment",
+              "annotations",
+              "cad",
+              "cad-models",
+              "cvpr",
+              "cvpr2019",
+              "deeplearning",
+              "voxel-grid"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         }
@@ -1304,12 +1830,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repository of \"VideoCAD: A Dataset and Model for Learning Long‑Horizon 3D CAD UI Interactions from Video\" @ NeurIPS 2025",
+            "homepage": "https://ghadinehme.github.io/videocad.github.io/",
             "id": 1079441024,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-02T22:01:25Z",
+            "open_issues": 5,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "behavior-cloning",
+              "cad",
+              "cad-software",
+              "large-scale-dataset",
+              "parametric-design",
+              "transformer",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1320,12 +1859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints",
+            "homepage": null,
             "id": 480961251,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-22T22:20:06Z",
+            "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1336,12 +1880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data, tools, and documentation of the Fusion 360 Gallery Dataset",
+            "homepage": null,
             "id": 246685229,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-23T18:47:41Z",
+            "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 716
+            "stars": 716,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1352,12 +1901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data, tools, and documentation of the Fusion 360 Gallery Dataset",
+            "homepage": null,
             "id": 246685229,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-23T18:47:41Z",
+            "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 716
+            "stars": 716,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1368,12 +1922,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for our ICCV 2021 paper \"DeepCAD: A Deep Generative Network for Computer-Aided Design Models\"",
+            "homepage": "http://www.cs.columbia.edu/cg/deepcad/",
             "id": 391366630,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-12T13:45:36Z",
+            "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 813
+            "stars": 813,
+            "topics": [
+              "3d-shapes",
+              "computer-aided-design",
+              "computer-graphics",
+              "deep-learning",
+              "iccv2021",
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         },
@@ -1384,12 +1950,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "First multimodal dataset of over 100,000 G-code files, tessellated CAD models, LVIS categories, and STL renderings",
+            "homepage": "https://slice-100k.github.io/",
             "id": 811141088,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-10T21:54:20Z",
+            "open_issues": 2,
             "owner": "idealab-isu",
             "repo": "Slice-100K",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
         }
@@ -1398,15 +1969,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:17:31.435Z",
+    "last_updated": "2026-08-29T04:50:00.690Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
+      "homepage": "https://bunnysocrazy.com/",
       "id": 937902986,
       "language": "HTML",
+      "license": "MIT",
       "last_commit": "2026-03-13T07:59:05Z",
+      "open_issues": 0,
       "owner": "BunnySoCrazy",
       "repo": "Awesome-Neural-CAD",
-      "stars": 203
+      "stars": 203,
+      "topics": [
+        "3d-models",
+        "aigc",
+        "awesome-list",
+        "cad",
+        "computer-graphics",
+        "deep-neural-networks"
+      ]
     },
     "original_repository_sha": "4a87a22f523489e9691eb8c7f5ba3aa249d48eb1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Neural-CAD",
