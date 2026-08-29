@@ -1969,7 +1969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:00.690Z",
+    "last_updated": "2026-08-29T08:58:12.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
@@ -1981,7 +1981,7 @@
       "open_issues": 0,
       "owner": "BunnySoCrazy",
       "repo": "Awesome-Neural-CAD",
-      "stars": 203,
+      "stars": 204,
       "topics": [
         "3d-models",
         "aigc",
