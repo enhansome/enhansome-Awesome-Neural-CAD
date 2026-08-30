@@ -406,7 +406,7 @@
             "open_issues": 4,
             "owner": "samxuxiang",
             "repo": "SkexGen",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -469,7 +469,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 813,
+            "stars": 815,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -524,7 +524,7 @@
             "open_issues": 34,
             "owner": "alexandre01",
             "repo": "deepsvg",
-            "stars": 1164,
+            "stars": 1163,
             "topics": [
               "autoencoder",
               "deep-learning",
@@ -662,7 +662,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 456,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1102,7 +1102,7 @@
             "open_issues": 2,
             "owner": "llorz",
             "repo": "SGA21_roofOptimization",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1931,7 +1931,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 813,
+            "stars": 815,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -1969,7 +1969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:58:12.460Z",
+    "last_updated": "2026-08-30T08:15:13.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
