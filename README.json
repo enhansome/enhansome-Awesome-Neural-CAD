@@ -469,7 +469,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 814,
+            "stars": 815,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -1461,7 +1461,7 @@
             "open_issues": 0,
             "owner": "rkjones4",
             "repo": "ShapeAssembly",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1839,7 +1839,7 @@
             "open_issues": 5,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "behavior-cloning",
               "cad",
@@ -1889,7 +1889,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 718,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1910,7 +1910,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 718,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1931,7 +1931,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 814,
+            "stars": 815,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -1969,7 +1969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:35:17.700Z",
+    "last_updated": "2026-09-01T07:43:51.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
