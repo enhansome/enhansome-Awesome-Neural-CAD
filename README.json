@@ -233,7 +233,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 463,
+            "stars": 466,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -268,7 +268,7 @@
             "open_issues": 21,
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 422,
+            "stars": 423,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -516,11 +516,11 @@
           "repo_info": {
             "archived": false,
             "description": "[NeurIPS 2020] Official code for the paper \"DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation\". Includes a PyTorch library for deep learning with SVG data.",
-            "homepage": "https://www.reshot.ai",
+            "homepage": null,
             "id": 281817032,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2024-08-26T21:18:03Z",
+            "last_commit": "2026-09-04T13:21:24Z",
             "open_issues": 34,
             "owner": "alexandre01",
             "repo": "deepsvg",
@@ -1233,7 +1233,7 @@
             "open_issues": 7,
             "owner": "Hippogriff",
             "repo": "parsenet-codebase",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "3d-deep-learning",
               "3d-reconstruction",
@@ -1969,7 +1969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:11:23.209Z",
+    "last_updated": "2026-09-05T06:54:14.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
