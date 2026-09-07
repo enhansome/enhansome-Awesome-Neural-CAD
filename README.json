@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ParaCAD",
+          "description": "Autoregressive B-Rep Shape Generation with Parametric Surfaces SIGGRAPH 2026 Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official implementation of ParaCAD: Autoregressive B-Rep Shape Generation with Parametric Surfaces.",
+            "homepage": null,
+            "id": 1305471664,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-07-19T06:25:38Z",
+            "open_issues": 0,
+            "owner": "dafei-qin",
+            "repo": "ParaCAD",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-09-07T07:16:47.215Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FutureCAD",
+          "description": "Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding ICML 2026 Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code and Dataset for Paper \"Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding\"",
+            "homepage": "https://arxiv.org/abs/2603.11831",
+            "id": 1221492478,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-05-01T07:19:23Z",
+            "open_issues": 1,
+            "owner": "JohanStackk",
+            "repo": "FutureCAD",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-09-07T07:16:47.215Z"
+        },
+        {
+          "node_type": "item",
           "title": "STEP-LLM",
           "description": "STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models arXiv 2026 Paper Code",
           "children": [],
@@ -524,7 +566,7 @@
             "open_issues": 34,
             "owner": "alexandre01",
             "repo": "deepsvg",
-            "stars": 1163,
+            "stars": 1164,
             "topics": [
               "autoencoder",
               "deep-learning",
@@ -1683,6 +1725,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Brepler",
+          "description": "B-repLer: Language-guided Editing of CAD Models SIGGRAPH 2026 Paper Code Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1230058737,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-07-03T22:24:05Z",
+            "open_issues": 0,
+            "owner": "yilinliu77",
+            "repo": "Brepler",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-09-07T07:16:47.215Z"
+        },
+        {
+          "node_type": "item",
           "title": "cad-estate",
           "description": "CAD-Estate: Large-scale CAD Model Annotation in RGB Videos ICCV 2023 Paper Code",
           "children": [],
@@ -1889,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 725,
+            "stars": 726,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1910,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 725,
+            "stars": 726,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1969,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:05:10.338Z",
+    "last_updated": "2026-09-07T07:16:47.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
@@ -1977,7 +2040,7 @@
       "id": 937902986,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-03-13T07:59:05Z",
+      "last_commit": "2026-09-06T12:55:02Z",
       "open_issues": 0,
       "owner": "BunnySoCrazy",
       "repo": "Awesome-Neural-CAD",
@@ -1991,7 +2054,7 @@
         "deep-neural-networks"
       ]
     },
-    "original_repository_sha": "4a87a22f523489e9691eb8c7f5ba3aa249d48eb1",
+    "original_repository_sha": "acda6053aa2d9c01f679a5f93982657d12ede402",
     "enhanced_repository": "enhansome/enhansome-Awesome-Neural-CAD",
     "enhanced_repository_description": null,
     "title": "Awesome Neural CAD with stars"
