@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "JohanStackk",
             "repo": "FutureCAD",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -773,7 +773,7 @@
             "open_issues": 6,
             "owner": "yilinliu77",
             "repo": "NVDNet",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1060,7 +1060,7 @@
             "open_issues": 3,
             "owner": "SimingYan",
             "repo": "HPNet",
-            "stars": 73,
+            "stars": 74,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 0,
             "owner": "Enigma-li",
             "repo": "Sketch2CAD",
-            "stars": 109,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 726,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 726,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T07:11:58.758Z",
+    "last_updated": "2026-09-09T07:20:14.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
