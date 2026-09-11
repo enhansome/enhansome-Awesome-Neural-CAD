@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dafei-qin",
             "repo": "ParaCAD",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -233,7 +233,7 @@
             "open_issues": 2,
             "owner": "microsoft",
             "repo": "FlexCAD",
-            "stars": 103,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 469,
+            "stars": 471,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -1707,7 +1707,7 @@
             "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "cad",
               "data-processing",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 728,
+            "stars": 729,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 728,
+            "stars": 729,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:15:43.719Z",
+    "last_updated": "2026-09-11T07:14:29.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
