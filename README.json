@@ -191,7 +191,7 @@
             "open_issues": 12,
             "owner": "jinli99",
             "repo": "DTGBrepGen",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 821,
+            "stars": 822,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "cad",
               "cadquery",
@@ -1739,7 +1739,7 @@
             "open_issues": 0,
             "owner": "yilinliu77",
             "repo": "Brepler",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -1781,7 +1781,7 @@
             "open_issues": 3,
             "owner": "cangumeli",
             "repo": "ROCA",
-            "stars": 201,
+            "stars": 202,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1823,7 +1823,7 @@
             "open_issues": 8,
             "owner": "skanti",
             "repo": "SceneCAD",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 729,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 729,
+            "stars": 730,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 821,
+            "stars": 822,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:25:33.560Z",
+    "last_updated": "2026-09-14T07:51:08.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
