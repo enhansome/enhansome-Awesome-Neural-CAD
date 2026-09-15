@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dafei-qin",
             "repo": "ParaCAD",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "JasonShiii",
             "repo": "STEP-LLM",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -128,7 +128,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "AutoBrep",
-            "stars": 98,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -149,7 +149,7 @@
             "open_issues": 3,
             "owner": "Zhanwei-Z",
             "repo": "GeoCAD",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 472,
+            "stars": 473,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 822,
+            "stars": 823,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -1619,7 +1619,7 @@
             "open_issues": 8,
             "owner": "zhangshuming0668",
             "repo": "BrepMFR",
-            "stars": 87,
+            "stars": 88,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 822,
+            "stars": 823,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:51:08.868Z",
+    "last_updated": "2026-09-15T07:38:38.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
