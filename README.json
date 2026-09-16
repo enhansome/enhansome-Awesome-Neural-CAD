@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "JasonShiii",
             "repo": "STEP-LLM",
-            "stars": 32,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -128,7 +128,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "AutoBrep",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -1182,8 +1182,8 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T06:42:14Z",
-            "open_issues": 149,
+            "last_commit": "2026-09-15T13:56:26Z",
+            "open_issues": 150,
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2784,
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 730,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 730,
+            "stars": 731,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 823,
+            "stars": 825,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:38:38.445Z",
+    "last_updated": "2026-09-16T07:37:16.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
