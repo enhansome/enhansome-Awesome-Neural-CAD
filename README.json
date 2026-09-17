@@ -223,7 +223,7 @@
           "description": "FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models ICLR 2025 Paper Code",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": null,
             "homepage": null,
             "id": 916022661,
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -928,7 +928,7 @@
             "open_issues": 5,
             "owner": "chenzhaiyu",
             "repo": "points2poly",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "3d",
               "building",
@@ -1144,7 +1144,7 @@
             "open_issues": 2,
             "owner": "llorz",
             "repo": "SGA21_roofOptimization",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1182,7 +1182,7 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T13:56:26Z",
+            "last_commit": "2026-09-16T13:07:21Z",
             "open_issues": 150,
             "owner": "tensorflow",
             "repo": "graphics",
@@ -1322,7 +1322,7 @@
             "open_issues": 1,
             "owner": "Hippogriff",
             "repo": "CSGNet",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "3d-graphics",
               "computervision",
@@ -1619,7 +1619,7 @@
             "open_issues": 8,
             "owner": "zhangshuming0668",
             "repo": "BrepMFR",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "b-rep",
               "cad",
@@ -1707,7 +1707,7 @@
             "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 265,
+            "stars": 266,
             "topics": [
               "cad",
               "data-processing",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 731,
+            "stars": 733,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 731,
+            "stars": 733,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:37:16.428Z",
+    "last_updated": "2026-09-17T07:33:58.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
