@@ -82,7 +82,7 @@
             "open_issues": 1,
             "owner": "zhemdi",
             "repo": "CADEvolve",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "cad",
               "cadquery",
@@ -1123,7 +1123,7 @@
             "open_issues": 6,
             "owner": "YujiaLiu76",
             "repo": "PC2WF",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 733,
+            "stars": 734,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 733,
+            "stars": 734,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:33:58.632Z",
+    "last_updated": "2026-09-18T07:21:31.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
