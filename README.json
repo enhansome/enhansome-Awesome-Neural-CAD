@@ -1844,7 +1844,7 @@
             "open_issues": 0,
             "owner": "alexeybokhovkin",
             "repo": "CAD-Deform",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1865,7 +1865,7 @@
             "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 476,
+            "stars": 477,
             "topics": [
               "3dscan",
               "alignment",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:21:31.207Z",
+    "last_updated": "2026-09-19T07:17:10.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
