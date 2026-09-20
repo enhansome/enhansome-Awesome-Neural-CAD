@@ -191,7 +191,7 @@
             "open_issues": 12,
             "owner": "jinli99",
             "repo": "DTGBrepGen",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 473,
+            "stars": 476,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "b-rep",
               "cad",
@@ -1707,7 +1707,7 @@
             "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "cad",
               "data-processing",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:17:10.454Z",
+    "last_updated": "2026-09-20T07:42:16.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
