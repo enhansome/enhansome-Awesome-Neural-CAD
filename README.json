@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 476,
+            "stars": 478,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -448,7 +448,7 @@
             "open_issues": 4,
             "owner": "samxuxiang",
             "repo": "SkexGen",
-            "stars": 149,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "cad",
               "cadquery",
@@ -704,7 +704,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 457,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1739,7 +1739,7 @@
             "open_issues": 0,
             "owner": "yilinliu77",
             "repo": "Brepler",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -1899,7 +1899,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-02T22:01:25Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
             "stars": 227,
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 734,
+            "stars": 735,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 734,
+            "stars": 735,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:42:16.834Z",
+    "last_updated": "2026-09-21T07:54:40.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
