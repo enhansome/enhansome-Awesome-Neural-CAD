@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 478,
+            "stars": 477,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "cad",
               "cadquery",
@@ -865,7 +865,7 @@
             "open_issues": 13,
             "owner": "yuanqili78",
             "repo": "SED-Net",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1060,7 +1060,7 @@
             "open_issues": 3,
             "owner": "SimingYan",
             "repo": "HPNet",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1275,7 +1275,7 @@
             "open_issues": 7,
             "owner": "Hippogriff",
             "repo": "parsenet-codebase",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "3d-deep-learning",
               "3d-reconstruction",
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 206,
+            "stars": 207,
             "topics": [
               "b-rep",
               "cad",
@@ -1898,7 +1898,7 @@
             "id": 1079441024,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-02-02T22:01:25Z",
+            "last_commit": "2026-09-21T18:25:23Z",
             "open_issues": 4,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 735,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 735,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:54:40.332Z",
+    "last_updated": "2026-09-22T07:39:24.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
