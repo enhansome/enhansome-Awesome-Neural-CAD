@@ -128,7 +128,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "AutoBrep",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -310,7 +310,7 @@
             "open_issues": 21,
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 423,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 740,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 740,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:41:23.059Z",
+    "last_updated": "2026-09-24T07:33:00.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
