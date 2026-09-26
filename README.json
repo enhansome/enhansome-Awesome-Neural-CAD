@@ -310,7 +310,7 @@
             "open_issues": 21,
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 424,
+            "stars": 425,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 827,
+            "stars": 829,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 265,
+            "stars": 266,
             "topics": [
               "cad",
               "cadquery",
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "b-rep",
               "cad",
@@ -1707,7 +1707,7 @@
             "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "cad",
               "data-processing",
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 827,
+            "stars": 829,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T07:40:53.097Z",
+    "last_updated": "2026-09-26T07:34:20.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
