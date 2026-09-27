@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -704,7 +704,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 458,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1165,7 +1165,7 @@
             "open_issues": 0,
             "owner": "Enigma-li",
             "repo": "Sketch2CAD",
-            "stars": 110,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T07:34:20.701Z",
+    "last_updated": "2026-09-27T08:02:17.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
