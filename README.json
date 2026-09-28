@@ -37,7 +37,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-05-01T07:19:23Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "JohanStackk",
             "repo": "FutureCAD",
             "stars": 10,
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "JasonShiii",
             "repo": "STEP-LLM",
-            "stars": 34,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "cad",
               "cadquery",
@@ -1183,7 +1183,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T13:07:21Z",
-            "open_issues": 150,
+            "open_issues": 149,
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2783,
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 741,
+            "stars": 742,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 741,
+            "stars": 742,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:02:17.350Z",
+    "last_updated": "2026-09-28T08:37:36.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
