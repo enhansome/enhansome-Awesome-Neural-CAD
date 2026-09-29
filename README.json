@@ -34,13 +34,13 @@
             "description": "Code and Dataset for Paper \"Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding\"",
             "homepage": "https://arxiv.org/abs/2603.11831",
             "id": 1221492478,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-05-01T07:19:23Z",
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-29T07:00:27Z",
             "open_issues": 0,
             "owner": "JohanStackk",
             "repo": "FutureCAD",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -704,7 +704,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 459,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -836,7 +836,7 @@
             "open_issues": 1,
             "owner": "manycore-research",
             "repo": "PlankAssembly",
-            "stars": 107,
+            "stars": 109,
             "topics": [
               "3d-modeling",
               "3d-reconstruction",
@@ -1186,7 +1186,7 @@
             "open_issues": 149,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2783,
+            "stars": 2782,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1757,7 +1757,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2023-09-26T11:05:22Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "google-research",
             "repo": "cad-estate",
             "stars": 128,
@@ -1865,7 +1865,7 @@
             "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "3dscan",
               "alignment",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 742,
+            "stars": 743,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 742,
+            "stars": 743,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T08:37:36.379Z",
+    "last_updated": "2026-09-29T08:21:51.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
