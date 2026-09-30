@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "JohanStackk",
             "repo": "FutureCAD",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -1619,7 +1619,7 @@
             "open_issues": 8,
             "owner": "zhangshuming0668",
             "repo": "BrepMFR",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1902,7 +1902,7 @@
             "open_issues": 4,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "behavior-cloning",
               "cad",
@@ -2022,7 +2022,7 @@
             "open_issues": 2,
             "owner": "idealab-isu",
             "repo": "Slice-100K",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T08:21:51.162Z",
+    "last_updated": "2026-09-30T08:23:58.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
