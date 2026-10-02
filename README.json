@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -566,7 +566,7 @@
             "open_issues": 34,
             "owner": "alexandre01",
             "repo": "deepsvg",
-            "stars": 1164,
+            "stars": 1165,
             "topics": [
               "autoencoder",
               "deep-learning",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "cad",
               "cadquery",
@@ -1619,7 +1619,7 @@
             "open_issues": 8,
             "owner": "zhangshuming0668",
             "repo": "BrepMFR",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T08:47:10.116Z",
+    "last_updated": "2026-10-02T08:24:27.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
