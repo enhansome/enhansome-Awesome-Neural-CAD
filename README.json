@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 745,
+            "stars": 747,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 745,
+            "stars": 747,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:59:58.187Z",
+    "last_updated": "2026-10-04T08:21:26.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
