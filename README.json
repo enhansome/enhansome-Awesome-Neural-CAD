@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -704,7 +704,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 459,
+            "stars": 460,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1182,8 +1182,8 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T13:07:21Z",
-            "open_issues": 149,
+            "last_commit": "2026-10-06T08:33:57Z",
+            "open_issues": 152,
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2782,
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T08:53:04.753Z",
+    "last_updated": "2026-10-06T08:53:28.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
