@@ -80,7 +80,7 @@
             "license": "Apache-2.0",
             "last_commit": "2026-02-19T13:12:03Z",
             "open_issues": 1,
-            "owner": "zhemdi",
+            "owner": "kulibinai",
             "repo": "CADEvolve",
             "stars": 50,
             "topics": []
@@ -254,7 +254,7 @@
             "open_issues": 1,
             "owner": "Kamel773",
             "repo": "CAD_Code_Generation",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -1182,7 +1182,7 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:46:06Z",
+            "last_commit": "2026-10-07T07:43:09Z",
             "open_issues": 152,
             "owner": "tensorflow",
             "repo": "graphics",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:36:30.917Z",
+    "last_updated": "2026-10-07T08:33:50.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
