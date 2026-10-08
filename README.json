@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 832,
+            "stars": 833,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -1182,8 +1182,8 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T07:43:09Z",
-            "open_issues": 152,
+            "last_commit": "2026-10-07T13:42:56Z",
+            "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2782,
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 832,
+            "stars": 833,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T08:33:50.304Z",
+    "last_updated": "2026-10-08T08:51:11.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
