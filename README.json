@@ -79,10 +79,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-02-19T13:12:03Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "kulibinai",
             "repo": "CADEvolve",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1377,7 +1377,7 @@
             "open_issues": 2,
             "owner": "elisabettafedele",
             "repo": "superdec",
-            "stars": 208,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 748,
+            "stars": 749,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 748,
+            "stars": 749,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:51:11.420Z",
+    "last_updated": "2026-10-09T08:54:54.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
