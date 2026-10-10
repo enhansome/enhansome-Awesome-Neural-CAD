@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "BunnySoCrazy",
             "repo": "BrepGPT",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "3d-generation",
               "brep",
@@ -1865,7 +1865,7 @@
             "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "3dscan",
               "alignment",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T08:54:54.962Z",
+    "last_updated": "2026-10-10T08:24:51.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
