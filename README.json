@@ -352,7 +352,7 @@
             "open_issues": 5,
             "owner": "zhangshuming0668",
             "repo": "Brep2Seq",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -490,7 +490,7 @@
             "open_issues": 6,
             "owner": "Enigma-li",
             "repo": "Free2CAD",
-            "stars": 164,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:24:51.151Z",
+    "last_updated": "2026-10-11T08:42:14.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
