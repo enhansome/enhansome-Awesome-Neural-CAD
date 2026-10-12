@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "cad",
               "cadquery",
@@ -1844,7 +1844,7 @@
             "open_issues": 0,
             "owner": "alexeybokhovkin",
             "repo": "CAD-Deform",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1865,7 +1865,7 @@
             "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "3dscan",
               "alignment",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 749,
+            "stars": 750,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 749,
+            "stars": 750,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T08:42:14.959Z",
+    "last_updated": "2026-10-12T09:04:42.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
