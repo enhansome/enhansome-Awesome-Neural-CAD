@@ -1186,7 +1186,7 @@
             "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2782,
+            "stars": 2783,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "b-rep",
               "cad",
@@ -2022,7 +2022,7 @@
             "open_issues": 2,
             "owner": "idealab-isu",
             "repo": "Slice-100K",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:19:18.371Z",
+    "last_updated": "2026-10-14T07:29:54.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
