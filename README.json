@@ -566,7 +566,7 @@
             "open_issues": 34,
             "owner": "alexandre01",
             "repo": "deepsvg",
-            "stars": 1167,
+            "stars": 1168,
             "topics": [
               "autoencoder",
               "deep-learning",
@@ -704,7 +704,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 460,
+            "stars": 461,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1707,7 +1707,7 @@
             "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "cad",
               "data-processing",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:51:24.948Z",
+    "last_updated": "2026-10-18T07:10:40.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
@@ -2044,7 +2044,7 @@
       "open_issues": 0,
       "owner": "BunnySoCrazy",
       "repo": "Awesome-Neural-CAD",
-      "stars": 207,
+      "stars": 208,
       "topics": [
         "3d-models",
         "aigc",
