@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "JohanStackk",
             "repo": "FutureCAD",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -191,7 +191,7 @@
             "open_issues": 12,
             "owner": "jinli99",
             "repo": "DTGBrepGen",
-            "stars": 86,
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -1081,7 +1081,7 @@
             "open_issues": 6,
             "owner": "erictuanle",
             "repo": "CPFN",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 7,
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
-            "stars": 393,
+            "stars": 394,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:40:38.362Z",
+    "last_updated": "2026-10-20T07:26:03.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
