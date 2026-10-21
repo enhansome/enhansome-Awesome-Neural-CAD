@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "qixuema",
             "repo": "CLR-Wire",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -188,7 +188,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-10-02T08:37:22Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "jinli99",
             "repo": "DTGBrepGen",
             "stars": 87,
@@ -1186,7 +1186,7 @@
             "open_issues": 147,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2783,
+            "stars": 2784,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1707,7 +1707,7 @@
             "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 270,
+            "stars": 271,
             "topics": [
               "cad",
               "data-processing",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 754,
+            "stars": 755,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 754,
+            "stars": 755,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:26:03.658Z",
+    "last_updated": "2026-10-21T07:29:10.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
