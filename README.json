@@ -82,7 +82,7 @@
             "open_issues": 0,
             "owner": "kulibinai",
             "repo": "CADEvolve",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "cad",
               "cadquery",
@@ -1301,7 +1301,7 @@
             "open_issues": 13,
             "owner": "lingxiaoli94",
             "repo": "SPFN",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "b-rep",
               "cad",
@@ -1902,7 +1902,7 @@
             "open_issues": 5,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "behavior-cloning",
               "cad",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T07:29:10.287Z",
+    "last_updated": "2026-10-22T07:28:55.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
