@@ -191,7 +191,7 @@
             "open_issues": 13,
             "owner": "jinli99",
             "repo": "DTGBrepGen",
-            "stars": 87,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -566,7 +566,7 @@
             "open_issues": 34,
             "owner": "alexandre01",
             "repo": "deepsvg",
-            "stars": 1168,
+            "stars": 1169,
             "topics": [
               "autoencoder",
               "deep-learning",
@@ -1102,7 +1102,7 @@
             "open_issues": 3,
             "owner": "kimren227",
             "repo": "CSGStumpNet",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1182,8 +1182,8 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T06:04:01Z",
-            "open_issues": 147,
+            "last_commit": "2026-10-22T19:41:26Z",
+            "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2784,
@@ -1356,7 +1356,7 @@
             "open_issues": 7,
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
-            "stars": 394,
+            "stars": 395,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "xiaowuga",
             "repo": "DeFillet",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T07:28:55.134Z",
+    "last_updated": "2026-10-23T07:22:47.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
@@ -2044,7 +2044,7 @@
       "open_issues": 0,
       "owner": "BunnySoCrazy",
       "repo": "Awesome-Neural-CAD",
-      "stars": 208,
+      "stars": 207,
       "topics": [
         "3d-models",
         "aigc",
