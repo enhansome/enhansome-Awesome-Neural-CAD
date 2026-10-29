@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "dafei-qin",
             "repo": "ParaCAD",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -310,7 +310,7 @@
             "open_issues": 21,
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 428,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 838,
+            "stars": 839,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 273,
+            "stars": 276,
             "topics": [
               "cad",
               "cadquery",
@@ -836,7 +836,7 @@
             "open_issues": 1,
             "owner": "manycore-research",
             "repo": "PlankAssembly",
-            "stars": 110,
+            "stars": 111,
             "topics": [
               "3d-modeling",
               "3d-reconstruction",
@@ -1707,7 +1707,7 @@
             "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "cad",
               "data-processing",
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 838,
+            "stars": 839,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T08:19:42.359Z",
+    "last_updated": "2026-10-29T08:22:49.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
