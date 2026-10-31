@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "JohanStackk",
             "repo": "FutureCAD",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "cad",
               "cadquery",
@@ -907,7 +907,7 @@
             "open_issues": 7,
             "owner": "PrincetonLIPS",
             "repo": "vitruvion",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1186,7 +1186,7 @@
             "open_issues": 146,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2784,
+            "stars": 2785,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:31:27.859Z",
+    "last_updated": "2026-10-31T08:21:32.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
