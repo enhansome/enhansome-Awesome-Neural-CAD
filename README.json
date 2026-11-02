@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "cad",
               "cadquery",
@@ -836,7 +836,7 @@
             "open_issues": 1,
             "owner": "manycore-research",
             "repo": "PlankAssembly",
-            "stars": 111,
+            "stars": 112,
             "topics": [
               "3d-modeling",
               "3d-reconstruction",
@@ -1182,8 +1182,8 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T06:00:11Z",
-            "open_issues": 146,
+            "last_commit": "2026-11-01T14:50:57Z",
+            "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2785,
@@ -1356,7 +1356,7 @@
             "open_issues": 7,
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
-            "stars": 395,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 758,
+            "stars": 759,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 758,
+            "stars": 759,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:06:53.961Z",
+    "last_updated": "2026-11-02T09:20:44.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
