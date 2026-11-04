@@ -128,7 +128,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "AutoBrep",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -254,7 +254,7 @@
             "open_issues": 1,
             "owner": "Kamel773",
             "repo": "CAD_Code_Generation",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -415,7 +415,7 @@
             "open_issues": 4,
             "owner": "samxuxiang",
             "repo": "hnc-cad",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "3d",
               "autocomplete",
@@ -448,7 +448,7 @@
             "open_issues": 4,
             "owner": "samxuxiang",
             "repo": "SkexGen",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 840,
+            "stars": 842,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -886,7 +886,7 @@
             "open_issues": 0,
             "owner": "bizerfr",
             "repo": "BPNet",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -997,7 +997,7 @@
             "open_issues": 6,
             "owner": "guohaoxiang",
             "repo": "ComplexGen",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1018,7 +1018,7 @@
             "open_issues": 9,
             "owner": "FENGGENYU",
             "repo": "CAPRI-Net",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1060,7 +1060,7 @@
             "open_issues": 3,
             "owner": "SimingYan",
             "repo": "HPNet",
-            "stars": 76,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1102,7 +1102,7 @@
             "open_issues": 3,
             "owner": "kimren227",
             "repo": "CSGStumpNet",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1123,7 +1123,7 @@
             "open_issues": 6,
             "owner": "YujiaLiu76",
             "repo": "PC2WF",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1228,7 +1228,7 @@
             "open_issues": 6,
             "owner": "wangxiaogang866",
             "repo": "PIE-NET",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1249,7 +1249,7 @@
             "open_issues": 2,
             "owner": "kacperkan",
             "repo": "ucsgnet",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "3d-graphics",
               "computer-vision",
@@ -1275,7 +1275,7 @@
             "open_issues": 7,
             "owner": "Hippogriff",
             "repo": "parsenet-codebase",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "3d-deep-learning",
               "3d-reconstruction",
@@ -1301,7 +1301,7 @@
             "open_issues": 13,
             "owner": "lingxiaoli94",
             "repo": "SPFN",
-            "stars": 185,
+            "stars": 186,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 7,
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
-            "stars": 396,
+            "stars": 397,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1440,7 +1440,7 @@
             "open_issues": 0,
             "owner": "mingrui-zhao",
             "repo": "SweepNet",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "b-rep",
               "cad",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 759,
+            "stars": 760,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 759,
+            "stars": 760,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 840,
+            "stars": 842,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T09:26:52.145Z",
+    "last_updated": "2026-11-04T09:01:17.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
