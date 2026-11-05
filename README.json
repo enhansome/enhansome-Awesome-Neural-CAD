@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "qixuema",
             "repo": "CLR-Wire",
-            "stars": 68,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -310,7 +310,7 @@
             "open_issues": 21,
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 429,
+            "stars": 428,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -373,7 +373,7 @@
             "open_issues": 1,
             "owner": "ktertikas",
             "repo": "part_nerf",
-            "stars": 50,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1018,7 +1018,7 @@
             "open_issues": 9,
             "owner": "FENGGENYU",
             "repo": "CAPRI-Net",
-            "stars": 60,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1186,7 +1186,7 @@
             "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2784,
+            "stars": 2785,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1228,7 +1228,7 @@
             "open_issues": 6,
             "owner": "wangxiaogang866",
             "repo": "PIE-NET",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 7,
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
-            "stars": 397,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 3,
             "owner": "paschalidoud",
             "repo": "hierarchical_primitives",
-            "stars": 101,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T09:01:17.258Z",
+    "last_updated": "2026-11-05T09:22:09.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
