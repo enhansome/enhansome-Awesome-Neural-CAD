@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "JohanStackk",
             "repo": "FutureCAD",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -128,7 +128,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "AutoBrep",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -1377,7 +1377,7 @@
             "open_issues": 2,
             "owner": "elisabettafedele",
             "repo": "superdec",
-            "stars": 209,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:22:09.137Z",
+    "last_updated": "2026-11-06T09:17:06.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
