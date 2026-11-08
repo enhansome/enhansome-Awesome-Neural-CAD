@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "BunnySoCrazy",
             "repo": "BrepGPT",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "3d-generation",
               "brep",
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 491,
+            "stars": 493,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -1479,7 +1479,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2022-02-24T02:25:49Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "paschalidoud",
             "repo": "hierarchical_primitives",
             "stars": 100,
@@ -1739,7 +1739,7 @@
             "open_issues": 0,
             "owner": "yilinliu77",
             "repo": "Brepler",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:40:46.799Z",
+    "last_updated": "2026-11-08T08:54:06.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
@@ -2044,7 +2044,7 @@
       "open_issues": 0,
       "owner": "BunnySoCrazy",
       "repo": "Awesome-Neural-CAD",
-      "stars": 208,
+      "stars": 209,
       "topics": [
         "3d-models",
         "aigc",
