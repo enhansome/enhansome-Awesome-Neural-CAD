@@ -254,7 +254,7 @@
             "open_issues": 1,
             "owner": "Kamel773",
             "repo": "CAD_Code_Generation",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T08:54:06.766Z",
+    "last_updated": "2026-11-09T09:38:56.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
