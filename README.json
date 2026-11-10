@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "cad",
               "cadquery",
@@ -794,7 +794,7 @@
             "open_issues": 1,
             "owner": "FENGGENYU",
             "repo": "D2CSG",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1060,7 +1060,7 @@
             "open_issues": 3,
             "owner": "SimingYan",
             "repo": "HPNet",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1186,7 +1186,7 @@
             "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2785,
+            "stars": 2784,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1479,7 +1479,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2022-02-24T02:25:49Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "paschalidoud",
             "repo": "hierarchical_primitives",
             "stars": 100,
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T09:38:56.514Z",
+    "last_updated": "2026-11-10T09:39:30.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
