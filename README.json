@@ -1186,7 +1186,7 @@
             "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2784,
+            "stars": 2783,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:15:16.400Z",
+    "last_updated": "2026-11-12T09:42:50.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
