@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "JohanStackk",
             "repo": "FutureCAD",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-09-07T07:16:47.215Z"
@@ -704,7 +704,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 464,
+            "stars": 467,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -907,7 +907,7 @@
             "open_issues": 7,
             "owner": "PrincetonLIPS",
             "repo": "vitruvion",
-            "stars": 70,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1802,7 +1802,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1865,7 +1865,7 @@
             "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "3dscan",
               "alignment",
@@ -1902,7 +1902,7 @@
             "open_issues": 5,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
-            "stars": 232,
+            "stars": 231,
             "topics": [
               "behavior-cloning",
               "cad",
@@ -1931,7 +1931,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T09:42:50.787Z",
+    "last_updated": "2026-11-13T09:26:01.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
