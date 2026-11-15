@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -1186,7 +1186,7 @@
             "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
-            "stars": 2783,
+            "stars": 2782,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1902,7 +1902,7 @@
             "open_issues": 5,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
-            "stars": 231,
+            "stars": 232,
             "topics": [
               "behavior-cloning",
               "cad",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:54:24.919Z",
+    "last_updated": "2026-11-15T09:13:10.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
