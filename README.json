@@ -1503,7 +1503,7 @@
             "open_issues": 0,
             "owner": "rkjones4",
             "repo": "ShapeAssembly",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1619,7 +1619,7 @@
             "open_issues": 8,
             "owner": "zhangshuming0668",
             "repo": "BrepMFR",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "b-rep",
               "cad",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:13:10.316Z",
+    "last_updated": "2026-11-16T09:29:49.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
