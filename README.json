@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 843,
+            "stars": 844,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -643,7 +643,7 @@
             "open_issues": 6,
             "owner": "ThibaultGROUEIX",
             "repo": "AtlasNet",
-            "stars": 724,
+            "stars": 725,
             "topics": [
               "3d",
               "3d-deep-learning",
@@ -704,7 +704,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 468,
+            "stars": 470,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1039,7 +1039,7 @@
             "open_issues": 5,
             "owner": "Luo1Cheng",
             "repo": "LC2WF",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1060,7 +1060,7 @@
             "open_issues": 3,
             "owner": "SimingYan",
             "repo": "HPNet",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1081,7 +1081,7 @@
             "open_issues": 6,
             "owner": "erictuanle",
             "repo": "CPFN",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1275,7 +1275,7 @@
             "open_issues": 7,
             "owner": "Hippogriff",
             "repo": "parsenet-codebase",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "3d-deep-learning",
               "3d-reconstruction",
@@ -1301,7 +1301,7 @@
             "open_issues": 13,
             "owner": "lingxiaoli94",
             "repo": "SPFN",
-            "stars": 186,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 7,
             "owner": "PrimitiveAnything",
             "repo": "PrimitiveAnything",
-            "stars": 396,
+            "stars": 397,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1707,7 +1707,7 @@
             "open_issues": 1,
             "owner": "AutodeskAILab",
             "repo": "BRepNet",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "cad",
               "data-processing",
@@ -1865,7 +1865,7 @@
             "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "3dscan",
               "alignment",
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 843,
+            "stars": 844,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T09:29:49.336Z",
+    "last_updated": "2026-11-17T10:35:29.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
