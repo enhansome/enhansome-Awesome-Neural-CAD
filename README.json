@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 495,
+            "stars": 496,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "b-rep",
               "cad",
@@ -1865,7 +1865,7 @@
             "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "3dscan",
               "alignment",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T10:35:29.684Z",
+    "last_updated": "2026-11-18T10:01:44.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
