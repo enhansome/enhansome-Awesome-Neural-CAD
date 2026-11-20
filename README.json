@@ -566,7 +566,7 @@
             "open_issues": 34,
             "owner": "alexandre01",
             "repo": "deepsvg",
-            "stars": 1169,
+            "stars": 1168,
             "topics": [
               "autoencoder",
               "deep-learning",
@@ -643,7 +643,7 @@
             "open_issues": 6,
             "owner": "ThibaultGROUEIX",
             "repo": "AtlasNet",
-            "stars": 725,
+            "stars": 724,
             "topics": [
               "3d",
               "3d-deep-learning",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "filaPro",
             "repo": "cad-recode",
-            "stars": 279,
+            "stars": 280,
             "topics": [
               "cad",
               "cadquery",
@@ -704,7 +704,7 @@
             "open_issues": 8,
             "owner": "prs-eth",
             "repo": "point2cad",
-            "stars": 470,
+            "stars": 469,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1802,7 +1802,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1865,7 +1865,7 @@
             "open_issues": 13,
             "owner": "skanti",
             "repo": "Scan2CAD",
-            "stars": 483,
+            "stars": 482,
             "topics": [
               "3dscan",
               "alignment",
@@ -1931,7 +1931,7 @@
             "open_issues": 4,
             "owner": "AutodeskAILab",
             "repo": "JoinABLe",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:11:31.178Z",
+    "last_updated": "2026-11-20T09:56:10.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
