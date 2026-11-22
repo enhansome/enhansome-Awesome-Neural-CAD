@@ -149,7 +149,7 @@
             "open_issues": 3,
             "owner": "Zhanwei-Z",
             "repo": "GeoCAD",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T09:38:51.635Z",
+    "last_updated": "2026-11-22T09:40:46.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
