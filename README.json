@@ -310,7 +310,7 @@
             "open_issues": 21,
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 429,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1377,7 +1377,7 @@
             "open_issues": 2,
             "owner": "elisabettafedele",
             "repo": "superdec",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:22:02.263Z",
+    "last_updated": "2026-11-25T11:10:05.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
@@ -2044,7 +2044,7 @@
       "open_issues": 0,
       "owner": "BunnySoCrazy",
       "repo": "Awesome-Neural-CAD",
-      "stars": 210,
+      "stars": 211,
       "topics": [
         "3d-models",
         "aigc",
