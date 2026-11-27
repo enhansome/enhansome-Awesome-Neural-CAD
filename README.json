@@ -1182,8 +1182,8 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T14:50:57Z",
-            "open_issues": 145,
+            "last_commit": "2026-11-27T09:07:17Z",
+            "open_issues": 146,
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2782,
@@ -1377,7 +1377,7 @@
             "open_issues": 2,
             "owner": "elisabettafedele",
             "repo": "superdec",
-            "stars": 210,
+            "stars": 211,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1902,7 +1902,7 @@
             "open_issues": 5,
             "owner": "ghadinehme",
             "repo": "VideoCAD",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "behavior-cloning",
               "cad",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 766,
+            "stars": 767,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 766,
+            "stars": 767,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T10:44:58.144Z",
+    "last_updated": "2026-11-27T10:45:48.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
