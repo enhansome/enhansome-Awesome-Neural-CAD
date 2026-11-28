@@ -191,7 +191,7 @@
             "open_issues": 13,
             "owner": "jinli99",
             "repo": "DTGBrepGen",
-            "stars": 87,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "SadilKhan",
             "repo": "Text2CAD",
-            "stars": 500,
+            "stars": 499,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -310,7 +310,7 @@
             "open_issues": 21,
             "owner": "samxuxiang",
             "repo": "BrepGen",
-            "stars": 430,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -415,7 +415,7 @@
             "open_issues": 4,
             "owner": "samxuxiang",
             "repo": "hnc-cad",
-            "stars": 157,
+            "stars": 156,
             "topics": [
               "3d",
               "autocomplete",
@@ -448,7 +448,7 @@
             "open_issues": 4,
             "owner": "samxuxiang",
             "repo": "SkexGen",
-            "stars": 149,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -511,7 +511,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 844,
+            "stars": 843,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -773,7 +773,7 @@
             "open_issues": 6,
             "owner": "yilinliu77",
             "repo": "NVDNet",
-            "stars": 69,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -815,7 +815,7 @@
             "open_issues": 4,
             "owner": "BunnySoCrazy",
             "repo": "SECAD-Net",
-            "stars": 69,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -955,7 +955,7 @@
             "open_issues": 4,
             "owner": "mikacuy",
             "repo": "point2cyl",
-            "stars": 65,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -997,7 +997,7 @@
             "open_issues": 6,
             "owner": "guohaoxiang",
             "repo": "ComplexGen",
-            "stars": 133,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1182,8 +1182,8 @@
             "id": 164626274,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T09:07:17Z",
-            "open_issues": 146,
+            "last_commit": "2026-11-27T15:33:29Z",
+            "open_issues": 145,
             "owner": "tensorflow",
             "repo": "graphics",
             "stars": 2782,
@@ -1598,7 +1598,7 @@
             "open_issues": 0,
             "owner": "xiaowuga",
             "repo": "DeFillet",
-            "stars": 93,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1682,7 +1682,7 @@
             "open_issues": 5,
             "owner": "AutodeskAILab",
             "repo": "UV-Net",
-            "stars": 214,
+            "stars": 213,
             "topics": [
               "b-rep",
               "cad",
@@ -1952,7 +1952,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 767,
+            "stars": 768,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1973,7 +1973,7 @@
             "open_issues": 16,
             "owner": "AutodeskAILab",
             "repo": "Fusion360GalleryDataset",
-            "stars": 767,
+            "stars": 768,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:31.435Z"
@@ -1994,7 +1994,7 @@
             "open_issues": 19,
             "owner": "rundiwu",
             "repo": "DeepCAD",
-            "stars": 844,
+            "stars": 843,
             "topics": [
               "3d-shapes",
               "computer-aided-design",
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:45:48.164Z",
+    "last_updated": "2026-11-28T10:14:33.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neural Computer-Aided Design (CAD) papers.",
@@ -2044,7 +2044,7 @@
       "open_issues": 0,
       "owner": "BunnySoCrazy",
       "repo": "Awesome-Neural-CAD",
-      "stars": 211,
+      "stars": 210,
       "topics": [
         "3d-models",
         "aigc",
